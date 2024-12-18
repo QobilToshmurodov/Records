@@ -1,0 +1,14 @@
+E:\PROJECTS\Records\bin\Debug\net9.0\Records.exe
+E:\PROJECTS\Records\bin\Debug\net9.0\Records.deps.json
+E:\PROJECTS\Records\bin\Debug\net9.0\Records.runtimeconfig.json
+E:\PROJECTS\Records\bin\Debug\net9.0\Records.dll
+E:\PROJECTS\Records\bin\Debug\net9.0\Records.pdb
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.AssemblyInfoInputs.cache
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.AssemblyInfo.cs
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.dll
+E:\PROJECTS\Records\obj\Debug\net9.0\refint\Records.dll
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.pdb
+E:\PROJECTS\Records\obj\Debug\net9.0\Records.genruntimeconfig.cache
+E:\PROJECTS\Records\obj\Debug\net9.0\ref\Records.dll
